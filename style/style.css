@@ -1,0 +1,19 @@
+body{
+        background: red;
+}
+
+.logo{
+        background-color: aqua;
+        width: 310px;
+}
+
+img{
+        height: 150px;
+        width: 300px;
+        margin: 5px;
+
+}
+
+a{
+        text-decoration: none;
+}
